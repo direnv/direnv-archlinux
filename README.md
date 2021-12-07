@@ -1,5 +1,7 @@
 # Arch Linux package for direnv
 
+**Status: archived** -- this package has been migrated to the Arch community: https://archlinux.org/packages/community/x86_64/direnv/
+
 ## Package updates
 
 How to update the package from Arch on any system:
